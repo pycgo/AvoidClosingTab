@@ -11,6 +11,7 @@
 // @author       Will Huang
 // @match        https://*.github.dev/*
 // @match        https://*.scm.azurewebsites.net/dev/*
+// @match        https://*.mengniu.cn/*
 // @run-at       document-start
 // ==/UserScript==
 
